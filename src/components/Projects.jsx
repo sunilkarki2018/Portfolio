@@ -12,7 +12,11 @@ export default function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            These are some projects I have worked. Apart from these, I also have work experience in developing and maintaining banking and finance related projects. These projects are not public due to security and confidentiality of respective organizations.
+            Here are some projects I've been involved in. In addition to these,
+            I've gained experience in the development and maintenance of
+            projects within the banking and finance sector. However, these
+            specific projects are not publicly available to ensure the security
+            and confidentiality of the respective organizations.{" "}
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
@@ -20,7 +24,8 @@ export default function Projects() {
             <a
               href={project.link}
               key={project.image}
-              className="sm:w-1/2 w-100 p-4">
+              className="sm:w-1/2 w-100 p-4"
+            >
               <div className="flex relative h-full">
                 <img
                   alt="gallery"
