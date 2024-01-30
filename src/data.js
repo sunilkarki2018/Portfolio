@@ -14,7 +14,7 @@ export const projects = [
       "It is a food order system developed using DotNet core and follows pattern of NopCommerce. It is built as a part of company project in SEA.",
     image: "./momscooking.gif",
     link: "https://momscooking.com.sg/",
-  }
+  },
 ];
 
 export const testimonials = [
@@ -35,10 +35,10 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "DotNet Core",
-  "DotNet Framework and ADO.Net",  
-  "MSSql, Postgres",
-  "Razor Pages",
-  "JavaScript and JQuery",
-  "React",
+  "DotNet Core,DotNet Framework and ADO.Net",
+  "ASP.NET MVC and Web API",
+  "MSSql, Postgres and SQL Design",
+  "React,JavaScript, JQuery and Razor Pages",
+  "Version control",
+  "Strong problem-solving and debugging skills",
 ];
