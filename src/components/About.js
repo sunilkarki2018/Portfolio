@@ -12,9 +12,7 @@ export default function About() {
             exciting projects.
           </h1>
           <p className="mb-8 leading-relaxed">
-            I hold a graduate degree in FullStack Software Development and bring
-            over three years of hands-on experience as a .NET Developer in various domain.
-          </p>
+          I have a graduate degree in FullStack Software Development and around three years of practical experience in software development, with more incliend on the backend and database side of DotNet ecosystem. </p>
           <div className="flex justify-center">
             <a
               href="#contact"
